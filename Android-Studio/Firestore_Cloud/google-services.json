@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832451127556",
+    "project_id": "pam2-cba81",
+    "storage_bucket": "pam2-cba81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832451127556:android:f46736fa1eac90f1154851",
+        "android_client_info": {
+          "package_name": "br.com.eteczonaleste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvgZ7SL9NHyQz-1UBLyhJZES5P4jYaLbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
