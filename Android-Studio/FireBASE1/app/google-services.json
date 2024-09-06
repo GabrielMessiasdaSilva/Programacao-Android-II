@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765369213935",
+    "project_id": "crud-kotlin-990fe",
+    "storage_bucket": "crud-kotlin-990fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765369213935:android:ead415eb3bc1ee1c57cc1a",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOiDSUTk854UEJ8a3AI9XT64zrK2tu0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765369213935:android:97e51b9d1d341ea857cc1a",
+        "android_client_info": {
+          "package_name": "package.com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOiDSUTk854UEJ8a3AI9XT64zrK2tu0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
